@@ -1,0 +1,186 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "09shenlan",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "09shenlan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-09shenlan-Debug-6084850fd9ff7f72e02f.json",
+					"name" : "09shenlan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testDemo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testDemo-Debug-1fc40973cefcc399d1a6.json",
+					"name" : "testDemo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testDynamic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testDynamic-Debug-eef1ec615f37b0c21366.json",
+					"name" : "testDynamic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testFunc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testFunc-Debug-3208c04dc4093906b836.json",
+					"name" : "testFunc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testFuncPoint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testFuncPoint-Debug-3191ad7d83164677c566.json",
+					"name" : "testFuncPoint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testIO::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testIO-Debug-1bc5397e9a810b470af9.json",
+					"name" : "testIO",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testInline::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testInline-Debug-4120663f23472052fa1a.json",
+					"name" : "testInline",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testInvert::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testInvert-Debug-b4a37dbf0d414a62da9f.json",
+					"name" : "testInvert",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testMainArray::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testMainArray-Debug-ec98718d39a508b0c9d0.json",
+					"name" : "testMainArray",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testRadiusFor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testRadiusFor-Debug-a5e662c1c7852cac5c06.json",
+					"name" : "testRadiusFor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testReload::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testReload-Debug-1eeac638d3e896edbeaa.json",
+					"name" : "testReload",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testStatement::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testStatement-Debug-10545d1a776ba19d302f.json",
+					"name" : "testStatement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testString::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testString-Debug-ff6d59940395f74d80f4.json",
+					"name" : "testString",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testType::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testType-Debug-f822c83d4e2084ea8131.json",
+					"name" : "testType",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testVector::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testVector-Debug-eab1d01143229c275f87.json",
+					"name" : "testVector",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/C_Study/WorkSpace/Cpp_Study/09shenlan/cmake-build-debug",
+		"source" : "D:/C_Study/WorkSpace/Cpp_Study/09shenlan"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
