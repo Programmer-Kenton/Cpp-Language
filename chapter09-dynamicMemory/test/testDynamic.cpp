@@ -114,10 +114,16 @@ int main() {
 //        a4->getName();
 //    }
 
-    {
-        std::unique_ptr<Animal> a5 = make_unique<Animal>();
-        a5->getName();
-    }
+//    {
+//        std::unique_ptr<Animal> a5 = make_unique<Animal>();
+//        a5->getName();
+//    }
+
+std::unique_ptr<int> x(new int(3));
+std::cout << x.get() << std::endl;
+std::unique_ptr<int> y = std::move(x);
+std::cout << x.get() << std::endl;
+std::cout << x.get() << std::endl;
 }
 
 

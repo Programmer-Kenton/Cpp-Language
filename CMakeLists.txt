@@ -14,6 +14,7 @@ add_executable(09shenlan main.cpp
         chapter09-dynamicMemory/test/testDynamic.cpp
         chapter09-dynamicMemory/source/Animal.cpp
         chapter09-dynamicMemory/head/Animal.h
+        chapter08-IO/test/testEncipher.cpp
 )
 
 add_executable(
@@ -74,4 +75,12 @@ add_executable(
         testDynamic chapter09-dynamicMemory/test/testDynamic.cpp
         chapter09-dynamicMemory/head/Animal.h
         chapter09-dynamicMemory/source/Animal.cpp
+)
+
+add_executable(
+        testEncipher chapter08-IO/test/testEncipher.cpp
+)
+
+add_executable(
+        testVector02 chapter10-container/test/testVector02.cpp
 )

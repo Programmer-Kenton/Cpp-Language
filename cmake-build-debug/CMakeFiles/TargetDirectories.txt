@@ -13,5 +13,7 @@ D:/C_Study/WorkSpace/Cpp_Study/09shenlan/cmake-build-debug/CMakeFiles/testInline
 D:/C_Study/WorkSpace/Cpp_Study/09shenlan/cmake-build-debug/CMakeFiles/testFuncPoint.dir
 D:/C_Study/WorkSpace/Cpp_Study/09shenlan/cmake-build-debug/CMakeFiles/testIO.dir
 D:/C_Study/WorkSpace/Cpp_Study/09shenlan/cmake-build-debug/CMakeFiles/testDynamic.dir
+D:/C_Study/WorkSpace/Cpp_Study/09shenlan/cmake-build-debug/CMakeFiles/testEncipher.dir
+D:/C_Study/WorkSpace/Cpp_Study/09shenlan/cmake-build-debug/CMakeFiles/testVector02.dir
 D:/C_Study/WorkSpace/Cpp_Study/09shenlan/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/C_Study/WorkSpace/Cpp_Study/09shenlan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
